@@ -1,4 +1,4 @@
-# CS447 Project 2: Space Rocket Game
+# CS447 Project 2: Space Battle Game
 
 The goal of this game is to shoot bullets at oncoming rocks until they are destroyed. Each time your bullet hits a rock, the size of the rock decreases until it is completely destroyed. If the rock hits the player before it is destroyed, the player incurs damage to their health. If the player keeps getting damaged, they will lose a life. In total, the player has 3 lives. Each time a life is lost, the player is respawned. If the player manages to destroy all the rocks before all their lives are lost, they win the game. If not, they lose the game and have to restart.
 <br />
