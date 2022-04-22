@@ -49,4 +49,5 @@ reappear, whatever).
 
 
 
+© 2016-2020 Jarrett Billingsley
 
