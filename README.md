@@ -5,9 +5,9 @@ The goal of this game is to shoot bullets at oncoming rocks until they are destr
 <br />
 <br />
 <p align="center">
-  <img width="450" img height="450" alt="Screenshot 2022-04-21 at 8 17 34 PM" src="https://user-images.githubusercontent.com/66859238/164571313-29f43f6b-781c-48c7-886d-68cd3f3a8075.png">
+  <img width="250" img height="250" alt="Screenshot 2022-04-21 at 8 17 34 PM" src="https://user-images.githubusercontent.com/66859238/164571313-29f43f6b-781c-48c7-886d-68cd3f3a8075.png">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img width="450" img height="450" alt="Screenshot 2022-04-21 at 8 19 27 PM" src="https://user-images.githubusercontent.com/66859238/164571314-612308e0-303b-47a1-8d0f-14e1a1c4f9b4.png"> 
+  <img width="250" img height="250" alt="Screenshot 2022-04-21 at 8 19 27 PM" src="https://user-images.githubusercontent.com/66859238/164571314-612308e0-303b-47a1-8d0f-14e1a1c4f9b4.png"> 
 </p>
 <br />
 ## The Player
